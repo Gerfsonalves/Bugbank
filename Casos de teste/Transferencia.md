@@ -1,4 +1,4 @@
-## CT-06 – Transferência com dados válidos
+## CT-09 – Transferência com dados válidos
 
 **Pré-condição:**
 
@@ -21,7 +21,7 @@
 * Deve ser exibida mensagem de confirmação da transferência
 
 ---
-## CT-07 – Transferência com saldo insuficiente
+## CT-10 – Transferência com saldo insuficiente
 
 **Pré-condição:**
 
@@ -41,7 +41,7 @@
 * Deve ser exibida mensagem informando saldo insuficiente
 
 ---
-## CT-08 – Transferência com campos obrigatórios em branco
+## CT-11 – Transferência com campos obrigatórios em branco
 
 **Pré-condição:**
 
@@ -59,7 +59,7 @@
 * Devem ser exibidas mensagens de validação nos campos obrigatórios
 
 ---
-## CT-13 – Transferência para conta inexistente
+## CT-12 – Transferência para conta inexistente
 
 **Pré-condição:**
 
