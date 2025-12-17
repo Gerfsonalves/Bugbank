@@ -18,8 +18,7 @@
 * O usuário deve ser redirecionado para a página de login ou dashboard
 
 ---
-
-## CT-10 – Cadastro com e-mail já existente
+## CT-02 – Cadastro com e-mail já existente
 
 **Pré-condição:**
 
@@ -39,8 +38,7 @@
 * Deve ser exibida uma mensagem informando que o e-mail já está em uso
 
 ---
-
-## CT-11 – Cadastro com campos obrigatórios em branco
+## CT-03 – Cadastro com campos obrigatórios em branco
 
 **Pré-condição:**
 
@@ -58,8 +56,7 @@
 * Devem ser exibidas mensagens de validação nos campos obrigatórios
 
 ---
-
-## CT-12 – Cadastro com senha inválida
+## CT-04 – Cadastro com senha inválida
 
 **Pré-condição:**
 
