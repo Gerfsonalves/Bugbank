@@ -19,7 +19,7 @@ O projeto foi desenvolvido para **fins de estudo e portfólio profissional**, si
 ![QA](https://img.shields.io/badge/Quality%20Assurance-QA-blue)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-✔️-success)
 ![Cypress](https://img.shields.io/badge/Cypress-Automation-green)
-
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
 
